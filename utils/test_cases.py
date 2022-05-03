@@ -15,9 +15,6 @@ testCases = [
     # [severity, description]
     ['Blocker', 'when user goes to main page, page should be loaded'],
     ['Blocker', 'In Main page, when user search "Nexus 5" button, he should see result for Nexus 5'],
-    ['Blocker', 'In the menu page, when the user searches for the intro'],
-    ['Blocker', 'In the menu page, when the user searches for ingredients'],
-    ['Blocker', 'In the menu page, when the user searches for the use'],
-    ['Blocker', 'In the menu page, when the user searches for the images'],
+    
     
 ]
